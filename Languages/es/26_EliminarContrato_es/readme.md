@@ -1,5 +1,5 @@
 ---
-Title: 26. Eliminar contrato
+Título: 26. Eliminar contrato
 tags:
   - solidity
   - advanced

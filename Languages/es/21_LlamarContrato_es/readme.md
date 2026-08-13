@@ -1,5 +1,5 @@
 ---
-title: 21. Interactuar con un Contrato externo
+Título: 21. Interactuar con un Contrato externo
 tags:
   - solidity
   - avanzado
